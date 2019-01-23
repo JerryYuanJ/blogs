@@ -7,4 +7,4 @@
 
 
 ### js随记
-#### [01-在js中使用OO的思想创建对象](https://github.com/JerryYuanJ/blogs/issues/2)
+#### [01: 在js中使用OO的思想创建对象](https://github.com/JerryYuanJ/blogs/issues/2)
